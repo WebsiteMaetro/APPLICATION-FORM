@@ -1,0 +1,87 @@
+body{
+    background-color: black;
+}
+div.first{
+    background-image: url(me.jpg);
+    width:1340px;
+    height: 630px;
+    background-size: 1400px 690px;
+    opacity: white;
+    background-repeat: no-repeat;     
+}
+#a{
+    font-size: 35px;
+    color:white;
+    text-align: center;
+}
+#b{
+    font-size: 90px;
+    font-weight: bold;
+    color: white;
+}
+button{
+    border-radius: 30px;
+    padding: 15px; 
+    width: 150px;
+    height: 50px;
+    background: white;
+    text-align: center;
+}
+/* #second{
+    background-color: white; */
+/* } */
+div.sec{
+    background-color: white;
+    /* width:1340px;
+    height: 750px; */
+    background-size: 1400px px;
+    opacity: white;
+    background-repeat: no-repeat;
+
+}
+#e{
+    font-size: 25px;
+    color:black;
+    text-align: center;
+}
+#f{
+    font-size: 70px;
+    font-weight: bold;
+    color: black;
+    padding-bottom: 150px;
+    text-align: center;
+}
+#g{
+    border: 1px solid white;
+    margin: 50px;
+    padding-top: 150px;
+
+    opacity: 10px;
+    font-size: 15px;
+    text-align: center;
+}
+#one{
+    background-repeat: no-repeat;
+}
+#two{
+    background-repeat: no-repeat;
+}
+#three{
+    background-repeat: no-repeat;
+}
+/* #c{
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.2;
+} */
+/* div{
+    background-image: (rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
+    url('r3.jpeg');
+    background-repeat: no-repeat;
+    height: 690px;
+    width: 1340px;
+    (rgba(207, 167, 167, 0.5), rgba(189, 49, 49, 0.5)),url(r3.jpeg);
+    background-size: 1400px 738px; */
+/* Other optional properties */
+/* background-attachment: fixed; */

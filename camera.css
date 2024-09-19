@@ -1,0 +1,54 @@
+body{
+    background-color: black;
+}
+.one{
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: rgb(63, 60, 60);
+}
+.one > div{
+    width: 100px;
+    margin: 10px;
+
+}
+#b{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    margin-left: 400px;
+}
+#a{
+    width: 200px;
+    height: 20opx;
+    color: white;
+    font-size: 100px;
+}
+#button{
+    border: 10px solid rgb(199, 173, 28);
+    border-radius: 20px;
+    background-color: gold;
+}
+ul{
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:rgb(68, 64, 64)
+}
+li{
+    float: left;
+    text-align: center;
+}
+
+li a:hover{
+    background-color: red;
+}
+#here{
+    text-underline-position: auto;
+}
+#c{
+    text-align: center;
+    margin-top: 20px;
+}

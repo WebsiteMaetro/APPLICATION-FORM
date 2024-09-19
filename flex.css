@@ -1,0 +1,48 @@
+/* .one{
+    display: flex;
+    justify-content: center;
+}
+.gen{
+    display: flex;
+    justify-content: space-around;
+} */
+.head{
+    text-align: center;
+}
+.one{
+    display: flex;;
+    justify-content: space-around;
+}
+.two{
+    display: flex;
+    justify-content: center;
+}
+.three{
+    display: flex;
+    justify-content: space-evenly;
+}
+#a{
+    background-color: purple;
+    height: 50px;
+}
+#b{
+    background-color: orange;
+}
+#c{
+    background-color: red
+}
+#d{
+    background-color: black;
+    height:;
+}
+#e{
+    background-color: green;
+    height: 50px;
+}
+#f{
+    background-color: blue;
+}
+p{
+    background-color: gray;
+    height: 50px;
+}
